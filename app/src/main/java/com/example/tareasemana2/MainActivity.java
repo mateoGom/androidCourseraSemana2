@@ -31,6 +31,7 @@ public void miFab(){
                             Log.i("SNACKBAR", "Click en snackbar");
                         }
                     })
+                    .setActionTextColor(getColor(R.color.colorPrimary))
                     .show();
         }
     });
