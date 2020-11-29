@@ -18,5 +18,6 @@
         <item>Saturno</item>
 
     </string-array>
-
+    <string name="titulo_card">lollipop 5.0</string>
+    <string name="descripcion_card">sistema operativo android</string>
 </resources>
